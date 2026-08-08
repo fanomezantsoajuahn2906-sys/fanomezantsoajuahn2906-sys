@@ -14,7 +14,10 @@
 
   <!-- BADGES DE TECHNOLOGIES -->
   <p align="center">
-    ![Wave Animation](https://waveify.onrender.com/api/wave?color=%23007CF0&height=150&speed=4&width=1200&amplitude=20&frequency=2&waveType=default)
+    <img src="https://img.shields.io/badge/WEAPON-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+    <img src="https://img.shields.io/badge/WEAPON-CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+    <img src="https://img.shields.io/badge/TOOL-VS_CODE-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
+    <img src="https://img.shields.io/badge/SYSTEM-GIT-F05032?style=for-the-badge&logo=git&logoColor=white" />
   </p>
 
 </div>
