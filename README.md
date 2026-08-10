@@ -21,7 +21,7 @@ Built By Hard Work ⚔️
 ## 🐍 Contribution Snake
 
 <p align="center">
-<img src="https://raw.githubusercontent.com/fanomezantsoajuahn2906-sys/fanomezantsoajuahn2906-sys/output/github-contribution-grid-snake.svg" />
+<img src="https://raw.githubusercontent.com/fanomezantsoajuahn2906-sys/fanomezantsoajuahn2906-sys/output/github/workflows/snake.yml" />
 </p>
 
 </div>
